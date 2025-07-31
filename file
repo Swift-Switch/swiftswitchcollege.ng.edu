@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Swift Switch College</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav class="navbar">
+      <div class="logo">Swift Switch College</div>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#academics">Academics</a></li>
+        <li><a href="#admissions">Admissions</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#portal">Portal</a></li>
+      </ul>
+    </nav>
+    <section class="intro">
+      <h1>Welcome to Swift Switch College</h1>
+      <p>Raising Future Leaders from Year 7 to Year 12</p>
+      <a href="#admissions" class="cta-button">Enroll Now</a>
+    </section>
+  </header>
+
+  <section id="about" class="section">
+    <h2>About Us</h2>
+    <p>
+      Swift Switch College is a forward-thinking secondary school located in Alagbado, Lagos. We focus on excellence in academics, character building, and leadership training.
+    </p>
+  </section>
+
+  <section id="academics" class="section">
+    <h2>Academics</h2>
+    <p>
+      Our academic programs span Year 7 (JSS1) to Year 12 (SS3), following the Nigerian-British curriculum. We offer core subjects, electives, and skill-based training.
+    </p>
+  </section>
+
+  <section id="admissions" class="section">
+    <h2>Admissions</h2>
+    <p>Summer Coaching starts August 4th. First Term resumes September 15th. Register today!</p>
+    <a href="#portal" class="cta-button">Apply Now</a>
+  </section>
+
+  <section id="contact" class="section">
+    <h2>Contact Us</h2>
+    <p>📍 3, Liberty Close, Omikunle Area, Alagbado, Ijaye, Lagos State, Nigeria</p>
+    <p>📞 0906 437 9464 | 0707 134 2815</p>
+    <p>📧 swiftswitchcollege@gmail.com</p>
+  </section>
+
+  <footer class="footer">
+    <p>&copy; 2025 Swift Switch College. All Rights Reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+Great! I've created the homepage structure for Swift Switch College. Next, I’ll add the styling in styles.css using your preferred colors: purple, lilac, orange, blue, and green — blended tastefully to keep the design clean and professional.
+
+Would you like me to:
+
+Add the CSS styles now?
+
+Or proceed to other pages like the portal, academics, and school management system?
+
+
+Let me know your priority.
+
